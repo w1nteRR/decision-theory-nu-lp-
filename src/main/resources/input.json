@@ -1,0 +1,42 @@
+[
+  {
+    "count": 25,
+    "priority": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "count": 26,
+    "priority": [
+      "A",
+      "C",
+      "B"
+    ]
+  },
+  {
+    "count": 22,
+    "priority": [
+      "C",
+      "B",
+      "A"
+    ]
+  },
+  {
+    "count": 24,
+    "priority": [
+      "B",
+      "C",
+      "A"
+    ]
+  },
+  {
+    "count": 15,
+    "priority": [
+      "C",
+      "A",
+      "B"
+    ]
+  }
+]
